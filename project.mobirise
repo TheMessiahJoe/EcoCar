@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Joseph&#39;s Website",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "purity",
       "title": "PurityM",
@@ -118,7 +118,7 @@
           "_anchor": "header3-d"
         },
         {
-          "text": "<p><span style=\"font-size: 1.25rem;\"><br></span></p><p>There are over 1.1 billion cars in existence around the world, and over 165,000 are produced every single day, on top of that. Cars are a huge part of today’s society, whether we like it or not. Since 1885 when Karl Benz invented the first true internal combustion engine. Since then cars have become&nbsp;</p><p><br></p>",
+          "text": "<p><span style=\"font-size: 1.25rem;\"><br></span></p><p>There are over 1.1 billion cars in existence around the world, and over 165,000 are produced every single day, on top of that. Cars are a huge part of today’s society, whether we like it or not. Since 1885 when Karl Benz invented the first true internal combustion engine. Since then cars have become a hugely valuable part of peoples lives. They allow people to come to and from work, they give the freedom to travel anywhere, and they give privacy to people when compared to public transport. With the millions of cars driven every day, no matter how convenient they are, because of the huge amount they are being used, they are contributing to Climate change. One of the biggest chalenges of recent history. Climate change is caused by humans polluting the atmosphere of our planet with carbon dioxide, the thing which comes out cars exaust pipe. this carbon dioxide creates a greenhouse effect in the atmosphere, making the overall tempereature hotter, weather unpredictable, and stronger storms. although vehicles arent the only thing causing this problem, they are certainly a contributer...... the rest on word for spell check&nbsp;</p><p><br></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -455,7 +455,7 @@
             }
           },
           "title": "Science",
-          "text": "Designing an eco-friendly car needs much research in the aerodynamics of cars, fuel efficacy, electric cars, and the possibility of hydrogen fuel cells.",
+          "text": "Designing an eco-friendly car needs much research in the aerodynamics of cars, fuel efficacy, electric cars, and the possibility of hydrogen fuel cell vehicles.",
           "alias": "purity/components",
           "_tags": [
             "Theme"
@@ -571,7 +571,7 @@
           }
         },
         {
-          "text": "<p>Car manufacturers and designers are constantly trying to reduce the environmental impact of cars. One way to do this is to make them more fuel-efficient, as the less fuel cars need, the less CO2&nbsp;they emit.&nbsp;<span style=\"font-size: 1.25rem;\">Many car manufacturers are trying to improve the environmental performance of their cars either by developing smaller lighter, and more aerodynamic vehicles or by implementing advanced engine technologies such as hybrid engines or even hyrogen fuel cell cars. Cars can be made lighter by using light, high-performance and modern materials both in the body of the car and in the engine of it.&nbsp;</span><span style=\"font-size: 1.25rem;\">Modern materials such like plastics also make designers able to create more aerodynamic vehicles easier, which is another way to save fuel.</span><span style=\"font-size: 1.25rem;\">There are a variety of other ways in which cars can improve their environmental performance.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\"><b>Drag -</b></span></p><p><span style=\"font-size: 1.25rem;\">What is drag?</span></p><p><span style=\"font-size: 1.25rem;\">Drag, otherwise known as air resistance, is a type of friction, specifically fluid resistance. It is a force which acts oppisite to the motion of the object traveling through the liquid, which in the case of cars, is air.</span></p><p><br></p><p>A vehicle is a hybrid if it uses more than one form of onboard energy to achieve moveent. In practice, that means a hybrid will have a traditional internal-combustion engine and a fuel tank, as well as one or more electric motors and a battery pack.</p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p></p><div><br></div><p></p>",
+          "text": "<p>Car manufacturers and designers are constantly trying to reduce the environmental impact of cars. One way to do this is to make them more fuel-efficient, as the less fuel cars need, the less CO2&nbsp;they emit.&nbsp;<span style=\"font-size: 1.25rem;\">Many car manufacturers are trying to improve the environmental performance of their cars either by developing smaller lighter, and more aerodynamic vehicles or by implementing advanced engine technologies such as hybrid engines or even hyrogen fuel cell cars. Cars can be made lighter by using light, high-performance and modern materials both in the body of the car and in the engine of it.&nbsp;</span><span style=\"font-size: 1.25rem;\">Modern materials such like plastics also make designers able to create more aerodynamic vehicles easier, which is another way to save fuel.</span><span style=\"font-size: 1.25rem;\">There are a variety of other ways in which cars can improve their environmental performance.&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\"><b>Drag -</b></span></p><p><span style=\"font-size: 1.25rem;\">What is drag?</span></p><p><span style=\"font-size: 1.25rem;\">Drag, otherwise known as air resistance, is a type of friction, specifically fluid resistance. It is a force which acts oppisite to the motion of the object traveling through the liquid, which in the case of cars, is air.</span></p><p><span style=\"font-size: 1.25rem;\">How much does Aerodynamics affect fuel efficancy ?<br></span></p><p><span style=\"font-size: 1.25rem;\">Fuel efficancy is &nbsp;</span></p><p><br></p><p>A vehicle is a hybrid if it uses more than one form of onboard energy to achieve moveent. In practice, that means a hybrid will have a traditional internal-combustion engine and a fuel tank, as well as one or more electric motors and a battery pack.</p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p><span style=\"font-size: 1.25rem;\"><br></span></p><p></p><div><br></div><p></p>",
           "alias": "purity/components",
           "_tags": [
             "Theme"
